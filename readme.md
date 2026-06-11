@@ -1,3 +1,8 @@
+USED BY TISHA PARMAR FOR LERNING PURPOSE
+
+
+
+
 # Awesome Personal Blogs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A delightful list of personal tech blogs
